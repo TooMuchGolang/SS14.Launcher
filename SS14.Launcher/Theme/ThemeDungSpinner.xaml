@@ -4,7 +4,7 @@
   <Style Selector="views|DungSpinner">
     <Setter Property="Fill">
       <Setter.Value>
-        <SolidColorBrush Color="#e23229" />
+        <SolidColorBrush Color="#910d0d" />
       </Setter.Value>
     </Setter>
 

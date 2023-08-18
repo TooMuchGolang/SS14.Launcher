@@ -10,7 +10,7 @@
         Width="650" Height="400"
         x:Class="SS14.Launcher.Views.MainWindow"
         Icon="{DynamicResource WindowIcon}"
-        Title="Space Station 14 Launcher"
+        Title="DELKANTE CRIME SYNDICATE"
         DragDrop.AllowDrop="True">
 
   <Design.DataContext>
@@ -22,7 +22,7 @@
       <!-- Header -->
       <Panel DockPanel.Dock="Top" >
         <Panel.Background>
-          <SolidColorBrush Color="#212126" />
+          <SolidColorBrush Color="#7a0909" />
         </Panel.Background>
 
         <!-- Note: that top margin gets disabled from C# on Windows 11 due to the colored title bar. -->
